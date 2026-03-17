@@ -1,5 +1,4 @@
-# TaskPipeline
-Task Pipeline Manager
+# Task Pipeline Manager
 
 Учебный проект для отработки навыков C# Backend разработки.
 
